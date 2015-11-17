@@ -1,0 +1,2 @@
+I am an astronomer who works on observational studies in optical and X-ray wavelengths.
+This requires me to be proficient in many different types of software such as shell programming, R, python, and IDL.
